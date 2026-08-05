@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Sathwika-gadde/DSA/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/Sathwika-gadde/DSA/tree/master/0238-product-of-array-except-self) |
 | [1920-build-array-from-permutation](https://github.com/Sathwika-gadde/DSA/tree/master/1920-build-array-from-permutation) |
 ## Simulation
@@ -16,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Sathwika-gadde/DSA/tree/master/0238-product-of-array-except-self) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Sathwika-gadde/DSA/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
