@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Sathwika-gadde/DSA/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/Sathwika-gadde/DSA/tree/master/0238-product-of-array-except-self) |
+| [1470-shuffle-the-array](https://github.com/Sathwika-gadde/DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Sathwika-gadde/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/Sathwika-gadde/DSA/tree/master/1920-build-array-from-permutation) |
 ## Simulation
